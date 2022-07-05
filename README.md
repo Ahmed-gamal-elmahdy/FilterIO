@@ -1,7 +1,6 @@
 
 # FilterIO
-FilterIO is a python based app that demonstrate effect of difrrent filters on grayscale images
-in spatial domain, frequnecy domain and its histogram. 
+FilterIO is a python based app that demonstrate effect of different filters on grayscale images in spatial domain, frequency domain and its histogram
 
 
 
